@@ -12,7 +12,7 @@
 </style>
 </head>
 <body>
-	<h1>どこつぶへようこそ</h1>
+	<h1>どこつぶへようこそ Renderデプロイ版</h1>
 	<form action="Login" method="post" >
 	ユーザ名：<input type="text" name="name"><br>
 	パスワード：<input type="password" name="pass"><br>
